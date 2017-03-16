@@ -1,0 +1,43 @@
+
+#display, .numKey, .opKey, .delKey{
+	border: solid 1px black;
+	border-radius: 5px;
+	font-size: 1.5em;
+	text-align: center;
+	height: 3.5em;
+	margin: 0.5em 0.65em 0.5em 0.65em;
+}
+#display{
+	margin-top: 0.8em;
+	padding: 1em;
+	text-align: right;
+	background-color: #AAB5A7;
+	color: #2E3835;
+}
+
+.numKey, .opKey{
+	background-color: #686D78;
+	color: white;
+	box-shadow: 4px 4px 5px #686D78;
+}
+
+.delKey{
+	background-color: #9D2346;
+	color: white;
+	box-shadow: 4px 4px 5px #686D78;
+}
+
+#main_container{
+	background-color: #50565F;
+	border: solid 2px black;
+	border-radius: 7px;
+	margin-top: 10px;
+	width: 42%;
+	padding: 2em 0 2.5em 0;
+}
+
+#keyContainer{
+	padding-left: 5.4em;
+}
+
+
